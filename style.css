@@ -1,0 +1,12 @@
+body{
+    background-color: #E9ECEF;
+}
+h1{
+    color:blueviolet;
+}
+a,ul li{
+    text-decoration: none;
+    list-style: none;
+    color:chocolate
+}
+
